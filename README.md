@@ -6,7 +6,6 @@ The project predicts the possibility of selected diseases using structured medic
 
 ---
 
-
 ## 🎯 Objective
 
 Predict the possibility of diseases based on patient and medical data using supervised machine learning classification techniques.
